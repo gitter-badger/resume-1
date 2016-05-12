@@ -3,6 +3,8 @@
 
 # Resume
 
+[![Join the chat at https://gitter.im/amowu/resume](https://badges.gitter.im/amowu/resume.svg)](https://gitter.im/amowu/resume?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A personal resume that generate by [JSON Resume](https://jsonresume.org/getting-started/).
 
 ## Run Locally
